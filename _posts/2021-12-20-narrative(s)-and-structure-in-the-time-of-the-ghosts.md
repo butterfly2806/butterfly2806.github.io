@@ -2,7 +2,7 @@
 layout: post
 title: Narrative(s) and Structure in Gillian Polack’s “The Time of the Ghosts”
 date: 2021-12-20 
-img: TTOTG.jpeg
+img: TTOTG2.jpg
 tags: [Blog, The Time of The Ghosts]
 ---
 Something that immediately caught my eye while reading is that Gillian Polack’s novel The Time of the Ghosts consists of three different narratives: the main story, Kat’s blog and the ‘Tales of Melusine’. All three narratives have their own content, structure and narrative situation and they take turns throughout the novel. While the narratives differ in these aspects, they ultimately combine into one narrative.
